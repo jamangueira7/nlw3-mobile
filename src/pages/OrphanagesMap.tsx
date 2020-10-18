@@ -24,7 +24,7 @@ export default function OrphanagesMap() {
         api.get('orphanages').then(response => {
             setOrphanages(response.data);
         });
-    }, []);
+    });
 
     function handleNavigateOrphanageDetails(id: number){
         navigation.navigate('OrphanageDetails', { id });
