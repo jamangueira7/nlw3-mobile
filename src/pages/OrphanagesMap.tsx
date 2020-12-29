@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import {StyleSheet, Text, View, Dimensions } from 'react-native';
-import MapView, { Marker, Callout, PROVIDER_GOOGLE } from 'react-native-maps';
+import MapView, { Marker, Callout, PROVIDER_GOOGLE, MapEvent } from 'react-native-maps';
 import { Feather } from '@expo/vector-icons';
 import {RectButton} from "react-native-gesture-handler";
 import { useNavigation, useFocusEffect } from '@react-navigation/native';
