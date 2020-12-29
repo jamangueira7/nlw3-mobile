@@ -16,11 +16,11 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src=".github/happy.png" width="250px" height="600px">
 </p>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy2.png" width="100%">
+  <img alt="Happy" src=".github/happy2.png" width="250px" height="600px">
 </p>
 
 ## Curso Rocketseat - NLW3
@@ -47,7 +47,7 @@ Consome a [API](https://github.com/jamangueira7/nlw3-backend).
 - Clone o projeto.
 - Rode yarn install (pode usar npm install de acordo com a sua configuração).
 - Na pasta src/services aquivo api.ts colocar seu IP em baseURL para funcionar.
-- Rode seu ambiente (eu usei o expo). yarn start
+- Rode seu ambiente (eu usei o expo): yarn start
 
 ###### Usar o expo: Baixe no seu celular o app "expo", depois rode o comando "expo start". Coloque sua camera para ler o QRCode gerado e pronto.
  
